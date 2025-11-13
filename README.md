@@ -1,5 +1,4 @@
-# Sidharrzzzzz
-# Hi, I'm Sidhu 👋
+# My Info
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhazzzzzz&layout=compact&theme=tokyonight)
 
