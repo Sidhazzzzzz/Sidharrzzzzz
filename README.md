@@ -1,6 +1,6 @@
 <div align="center">
   <h2>LeetCode Info</h2>
-  <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Sidharzzzzz?theme=dark&ext=heatmap" />
   <br>
   <br>
   <h2>My Info</h2>
